@@ -26,4 +26,5 @@ dependencies {
     compile 'com.ToxicBakery.viewpager.transforms:view-pager-transforms:1.2.32@aar'
     compile 'in.srain.cube:grid-view-with-header-footer:1.0.12'
     compile project(':ecarbannerlib')
+    compile 'com.android.support:appcompat-v7:26.0.0-alpha1'
 }

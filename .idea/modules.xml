@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/EcarBanner.iml" filepath="$PROJECT_DIR$/EcarBanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TechBanner.iml" filepath="$PROJECT_DIR$/TechBanner.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecarbannerlib/ecarbannerlib.iml" filepath="$PROJECT_DIR$/ecarbannerlib/ecarbannerlib.iml" />
       <module fileurl="file://$PROJECT_DIR$/ecarbannerlib/ecarbannerlib.iml" filepath="$PROJECT_DIR$/ecarbannerlib/ecarbannerlib.iml" />
     </modules>
   </component>
